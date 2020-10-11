@@ -1,0 +1,4 @@
+[1010/201648.505:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Bolanle Christianah\AppData\Roaming\Brackets\live-dev-profile\Crashpad\attachments\6960a5dd-ab6e-4b81-bdcb-9bf37f462be5: The system cannot find the path specified. (0x3)
+[1010/201648.513:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Bolanle Christianah\AppData\Roaming\Brackets\live-dev-profile\Crashpad\attachments\6b44eaf1-128a-4d20-87c4-22b7fe10cb3c: The system cannot find the path specified. (0x3)
+[1010/201648.513:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1010/213012.881:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
